@@ -1,0 +1,1 @@
+Buenas tardes, te pedi leer esto ya que voy a comenzar mi poryecto en git y github, te dare informacion sobre cada novedad en el avance del mimso por estas nota de informacion.
